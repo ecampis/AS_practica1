@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practica1</string>
+    <string-array name="operaciones">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+
+</resources>
